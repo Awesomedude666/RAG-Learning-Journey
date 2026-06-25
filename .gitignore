@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+
+.ipynb_checkpoints/
+
+*.db
+*.sqlite3
+
+node_modules/
+
+chroma_db/
+faiss_index/
+
+.DS_Store
